@@ -9,7 +9,6 @@ t = turtle.Turtle()
 t.penup()
 t.goto(-80,15)
 t.pendown()
-t.pensize(1)
 t.pencolor('blue')
 t.circle(35)
 #circle
